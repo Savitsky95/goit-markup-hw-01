@@ -1,0 +1,43 @@
+.first {
+    background-color: #2E2F42;
+}
+.text {
+    color: #FFFFFF;
+}
+.firstbutton:focus {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+.firstbutton {
+    background-color: #FFFFFF;
+    color: #4D5AE5;
+}
+.logo {
+    color: #4D5AE5;
+}
+.secondlogo {
+    color: #F4F4FD;
+}
+footer {
+    background-color: #2E2F42
+}
+.footer-text {
+    color: #E7E9FC;
+}
+.second-logo-top {
+    color: #2E2F42;
+}
+.interactive:focus {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+.interactive {
+    background-color: #FFFFFF;
+    color: #4D5AE5;
+}
+.nav {
+    color:#2E2F42;
+}
+.contacts {
+    color:#434455;
+}
