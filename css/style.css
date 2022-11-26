@@ -1,17 +1,19 @@
-.first {
+body {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+}
+.top-color {
     background-color: #2E2F42;
 }
 .text {
     color: #FFFFFF;
+    text-align: center;
 }
-.firstbutton:focus {
-    background-color: #4D5AE5;
-    color: #FFFFFF;
-}
-.firstbutton {
-    background-color: #FFFFFF;
-    color: #4D5AE5;
-}
+
 .logo {
     color: #4D5AE5;
 }
@@ -27,17 +29,23 @@ footer {
 .second-logo-top {
     color: #2E2F42;
 }
-.interactive:focus {
+.interactive:focus,
+.interactive:hover,
+.interactive:active {
     background-color: #4D5AE5;
     color: #FFFFFF;
 }
 .interactive {
     background-color: #FFFFFF;
     color: #4D5AE5;
+    cursor: pointer;
 }
 .nav {
     color:#2E2F42;
 }
 .contacts {
     color:#434455;
+}
+.link-to:visited {
+    color: #2E2F42;
 }
